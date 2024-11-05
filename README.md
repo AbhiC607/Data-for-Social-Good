@@ -21,17 +21,18 @@ Include your User Story you analyzed for your project here. Your User Story shou
 > As an [role], <br> 
 > I want to [goal], <br> 
 > so that I can [benefit]. 
+
 ![alt text](image-1.png)
 ## Dataset 
 
 Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type. 
 
-Example: 
+Example: https://www.kaggle.com/datasets/makslypko/cars-dataset
 
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions 
-- **Country** (String) - name of the country 
-- **Population** (int) - number of people in the country 
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons 
+Dataset: https://www.kaggle.com/datasets/makslypko/cars-dataset
+- **brand** (String) - name of the brand 
+- **km** (int) - How many KM on the car
+- **price** (double) - Price of the car
 
 ## UML Diagram 
 
