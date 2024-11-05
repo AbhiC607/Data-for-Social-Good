@@ -21,7 +21,7 @@ Include your User Story you analyzed for your project here. Your User Story shou
 > As an [role], <br> 
 > I want to [goal], <br> 
 > so that I can [benefit]. 
-
+![alt text](image-1.png)
 ## Dataset 
 
 Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type. 
